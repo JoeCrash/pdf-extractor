@@ -1,4 +1,4 @@
-# **PDF scraper v0.1.0**
+# **PDF Extractor v0.1.0**
 `A tool to scrape text from pdf's.`
 
 ## **Software Goals**
@@ -42,6 +42,8 @@
 - Pull Request Requirements
 - Revisit License
 - Release into the wild
+- OpenCV installer or portable
+- OpenCV functionality
 
 ### **User Workflow:**
     - User opens application
@@ -80,6 +82,7 @@
     - Sharp - Image manipulation, snippet generation
     - TesseractOCR & Tesseract.js for node - Scan Text
     - nw.js - Standalone software, installers, etc
+    - OpenCV - to deskew scanned pdfs
 
 ### **App Wants:**
     - 100% coverage testing

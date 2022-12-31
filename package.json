@@ -23,5 +23,7 @@
   "bugs": {
     "url": "https://github.com/JoeCrash/pdf-extractor/issues"
   },
-  "homepage": "https://github.com/JoeCrash/pdf-extractor#readme"
+  "homepage": "https://github.com/JoeCrash/pdf-extractor#readme",
+  "dependencies": {
+  }
 }
